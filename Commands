@@ -3,6 +3,7 @@ Os comandos do bot para o meu Twitch, Mixer, Facebook, YouTube, Smashcast Chat. 
 
 List of commands / Lista de comandos:
 
+```markdown
 !love (alguém/algumacoisa), 
 !youtube, 
 !youtubegaming, 
@@ -50,3 +51,4 @@ List of commands / Lista de comandos:
 !apoiase, 
 !streamlabs, 
 !costs.
+```
