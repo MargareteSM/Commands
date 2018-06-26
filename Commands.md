@@ -3,9 +3,7 @@
 The bot commands for my Twitch, Mixer, Facebook, YouTube, Smashcast Chat. You can find a list of all Commands here.
 Os comandos do bot para o meu Twitch, Mixer, Facebook, YouTube, Smashcast Chat. Você pode encontrar uma lista de todos os comandos aqui.
 
-### Markdown
-
-List of commands / Lista de comandos:
+### List of commands / Lista de comandos:
 
 ```markdown
 !love (alguém/algumacoisa), 
