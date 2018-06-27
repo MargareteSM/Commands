@@ -6,7 +6,7 @@ Os comandos do bot para o meu Twitch, Mixer, Facebook, YouTube, Periscope, Smash
 ### List of commands / Lista de comandos:
 
 ```markdown
-!love (alguém/algumacoisa), 
+!love, 
 !youtube, 
 !youtubegaming, 
 !facebook, 
@@ -38,9 +38,9 @@ Os comandos do bot para o meu Twitch, Mixer, Facebook, YouTube, Periscope, Smash
 !cheers, 
 !bits, 
 !loots, 
-!give (nome e quantidade), 
+!give, 
 !song, 
-!songrequest (link ou nome da música), 
+!songrequest, 
 !sr, 
 !skip, 
 !currentsong, 
